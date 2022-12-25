@@ -8,5 +8,7 @@
  To start working they require re-realizing the room (assumedly, I always tested them by going to main menu and back), but once they are rendered, they show the changes in real time
  
  Uses Henpemaz' Placed Object Manager for devtools interface
+ 
+ This object will be integrated into RegionKit as soon as it gets updated to a less archaic state
 
  Special thanks to Henpemaz, Slime_Cubed, Drillboy Jenkins and Thalber
