@@ -396,3 +396,17 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Rain World dependencies
+Assembly-CSharp.dll
+BepInEx-Partiality-Wrapper.dll
+CustomRegions.dll
+HOOKS-Assembly-CSharp.dll
+BepInEx.dll
+EnumExtender.dll
+Mono.Cecil.dll
+MonoMod.dll
+MonoMod.RuntimeDetour.dll
+MonoMod.Utils.dll
+Partiality.dll
+UnityEngine.dll
